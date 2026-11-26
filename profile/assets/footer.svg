@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Footer">
+  <rect x="1" y="1" width="1198" height="88" rx="12" fill="#05070B" stroke="#1C2230"/>
+  <rect x="1" y="1" width="1198" height="88" rx="12" fill="url(#g)" opacity="0.6"/>
+  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity="0.04"/></pattern></defs>
+  <text x="600" y="40" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#FFFFFF">B-SWIFT TECHNOLOGY CO., LTD.</text>
+  <text x="600" y="66" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8B93A7">© 2026 · All source code is private and proprietary</text>
+</svg>

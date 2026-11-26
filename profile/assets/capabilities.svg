@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Capabilities">
+  <g>
+    <rect x="21" y="1" width="370" height="248" rx="12" fill="#0B0F17" stroke="#1C2230"/>
+    <rect x="21" y="1" width="370" height="248" rx="12" fill="none" stroke="#7C6CFF" stroke-width="2"
+          stroke-dasharray="120 1240" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="-1360" dur="5s" repeatCount="indefinite"/></rect>
+    <text x="364" y="44" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7C6CFF" opacity="0.8">01</text>
+    <rect x="48" y="28" width="72" height="72" rx="12" fill="#7C6CFF" fill-opacity="0.08" stroke="#7C6CFF" stroke-opacity="0.35"/>
+    <path d="M84 38 L106 48 V66 C106 80 94 88 84 92 C74 88 62 80 62 66 V48 Z" fill="none" stroke="#7C6CFF" stroke-width="2.5"/><path d="M75 65 l6 7 l13 -15" fill="none" stroke="#7C6CFF" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="48" y="148" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="2" fill="#FFFFFF">SECURE BY DESIGN</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#8B93A7">
+      <tspan x="48" y="182">Protection built into every layer,</tspan><tspan x="48" y="204">from access to every transaction.</tspan></text>
+  </g>
+  <g>
+    <rect x="415" y="1" width="370" height="248" rx="12" fill="#0B0F17" stroke="#1C2230"/>
+    <rect x="415" y="1" width="370" height="248" rx="12" fill="none" stroke="#7C6CFF" stroke-width="2"
+          stroke-dasharray="120 1240" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="-1360" dur="6s" repeatCount="indefinite"/></rect>
+    <text x="758" y="44" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7C6CFF" opacity="0.8">02</text>
+    <rect x="442" y="28" width="72" height="72" rx="12" fill="#7C6CFF" fill-opacity="0.08" stroke="#7C6CFF" stroke-opacity="0.35"/>
+    <path d="M450 68 H464 L472 46 L482 86 L490 64 H506" fill="none" stroke="#7C6CFF" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="140" stroke-dashoffset="140"><animate attributeName="stroke-dashoffset" values="140;0;0;-140" keyTimes="0;0.45;0.6;1" dur="2.6s" repeatCount="indefinite"/></path>
+    <text x="442" y="148" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="2" fill="#FFFFFF">REAL-TIME INTELLIGENCE</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#8B93A7">
+      <tspan x="442" y="182">Live, accurate visibility across</tspan><tspan x="442" y="204">the business — one source of truth.</tspan></text>
+  </g>
+  <g>
+    <rect x="809" y="1" width="370" height="248" rx="12" fill="#0B0F17" stroke="#1C2230"/>
+    <rect x="809" y="1" width="370" height="248" rx="12" fill="none" stroke="#7C6CFF" stroke-width="2"
+          stroke-dasharray="120 1240" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="-1360" dur="7s" repeatCount="indefinite"/></rect>
+    <text x="1152" y="44" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7C6CFF" opacity="0.8">03</text>
+    <rect x="836" y="28" width="72" height="72" rx="12" fill="#7C6CFF" fill-opacity="0.08" stroke="#7C6CFF" stroke-opacity="0.35"/>
+    <path d="M872 42 L898 54 L872 66 L846 54 Z" fill="none" stroke="#7C6CFF" stroke-width="2.5" opacity="1.0"><animate attributeName="opacity" values="1.0;0.25;1.0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></path><path d="M872 56 L898 68 L872 80 L846 68 Z" fill="none" stroke="#7C6CFF" stroke-width="2.5" opacity="0.7"><animate attributeName="opacity" values="0.7;0.25;0.7" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></path><path d="M872 70 L898 82 L872 94 L846 82 Z" fill="none" stroke="#7C6CFF" stroke-width="2.5" opacity="0.4"><animate attributeName="opacity" values="0.4;0.25;0.4" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></path>
+    <text x="836" y="148" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="2" fill="#FFFFFF">COMPLIANCE-READY</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#8B93A7">
+      <tspan x="836" y="182">Engineered for Thai regulation</tspan><tspan x="836" y="204">with full auditability.</tspan></text>
+  </g>
+</svg>

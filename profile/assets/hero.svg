@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="B-SWIFT TECHNOLOGY">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#5B50E3" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#5B50E3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C6CFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7C6CFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C6CFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#7C6CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="14" fill="#05070B"/>
+  <rect width="1200" height="380" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="380" rx="14" fill="url(#glow)"/>
+  <path d="M0 300 H140 L180 260 H330" stroke="#1C2230" stroke-width="2" fill="none"/><path d="M0 300 H140 L180 260 H330" stroke="#7C6CFF" stroke-width="2" fill="none" stroke-dasharray="40 600" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="640" to="0" dur="3.0s" repeatCount="indefinite"/></path><path d="M1200 90 H1040 L1000 130 H880" stroke="#1C2230" stroke-width="2" fill="none"/><path d="M1200 90 H1040 L1000 130 H880" stroke="#7C6CFF" stroke-width="2" fill="none" stroke-dasharray="40 600" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="640" to="0" dur="3.7s" repeatCount="indefinite"/></path><path d="M0 70 H90 L130 110 H260" stroke="#1C2230" stroke-width="2" fill="none"/><path d="M0 70 H90 L130 110 H260" stroke="#7C6CFF" stroke-width="2" fill="none" stroke-dasharray="40 600" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="640" to="0" dur="4.4s" repeatCount="indefinite"/></path><path d="M1200 320 H1080 L1040 280 H900" stroke="#1C2230" stroke-width="2" fill="none"/><path d="M1200 320 H1080 L1040 280 H900" stroke="#7C6CFF" stroke-width="2" fill="none" stroke-dasharray="40 600" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="640" to="0" dur="5.1s" repeatCount="indefinite"/></path><circle cx="330" cy="260" r="4" fill="#7C6CFF"><animate attributeName="opacity" values="1;0.2;1" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="330" cy="260" r="10" fill="none" stroke="#7C6CFF" stroke-opacity="0.35"/><circle cx="880" cy="130" r="4" fill="#7C6CFF"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle><circle cx="880" cy="130" r="10" fill="none" stroke="#7C6CFF" stroke-opacity="0.35"/><circle cx="260" cy="110" r="4" fill="#7C6CFF"><animate attributeName="opacity" values="1;0.2;1" dur="3.0s" repeatCount="indefinite"/></circle><circle cx="260" cy="110" r="10" fill="none" stroke="#7C6CFF" stroke-opacity="0.35"/><circle cx="900" cy="280" r="4" fill="#7C6CFF"><animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/></circle><circle cx="900" cy="280" r="10" fill="none" stroke="#7C6CFF" stroke-opacity="0.35"/>
+  <rect x="0" y="0" width="160" height="380" fill="url(#scan)" opacity="0.18">
+    <animate attributeName="x" from="-160" to="1200" dur="6s" repeatCount="indefinite"/></rect>
+  <g stroke="#7C6CFF" stroke-width="2" fill="none" opacity="0.9">
+    <path d="M40 52V34H58"/><path d="M1142 34H1160V52"/>
+    <path d="M40 328V346H58"/><path d="M1142 346H1160V328"/></g>
+  <text x="600" y="78" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="6" fill="#7C6CFF">// SOFTWARE · FINTECH · PLATFORM ENGINEERING</text>
+  <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="84" font-weight="800" letter-spacing="4" fill="url(#title)">B-SWIFT</text>
+  <text x="600" y="214" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="300" letter-spacing="18" fill="#FFFFFF" fill-opacity="0.92">TECHNOLOGY</text>
+  <text x="600" y="258" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#8B93A7">Engineering the platform behind <tspan fill="#FFFFFF" font-weight="600">B Finance</tspan></text>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14">
+    <rect x="390" y="290" width="420" height="34" rx="6" fill="#0B0F17" stroke="#1C2230"/>
+    <circle cx="412" cy="307" r="5" fill="#2BD576"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="426" y="312" fill="#8B93A7">status</text>
+    <text x="486" y="312" fill="#2BD576">OPERATIONAL</text>
+    <text x="600" y="312" fill="#8B93A7">· Bangkok, TH · est. 2026</text>
+    <rect x="796" y="299" width="8" height="16" fill="#7C6CFF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></rect>
+  </g>
+</svg>
